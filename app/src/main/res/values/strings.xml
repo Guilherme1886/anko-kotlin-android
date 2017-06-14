@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">anko kotlin android</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="na_mensagem_do_texto_informe_o_assunto_principal">Na mensagem do texto informe o assunto principal</string>
+    <string name="enviar">Enviar</string>
+    <string name="explicacao_permissao">Aceita carai, preciso usar seu telefone</string>
+</resources>
